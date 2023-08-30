@@ -10,14 +10,15 @@
 
     <Canvas x:Name="MyCanvas" Focusable="true" KeyDown="KeyIsDown" KeyUp="KeyIsUp">
 
-        <Rectangle Name="Bacground" Height="400" Width="1262" Fill="Orange" Canvas.Left="0"/>
-        <Rectangle Name="Bacground2" Height="400" Width="1262" Fill="Green" Canvas.Left="1262"/>
 
-        <Rectangle Name="ground" Height="48" Width="800" Fill="Black" Canvas.Top="387" Canvas.Left="0"/>
+        <Rectangle Name="Bacground" Height="450" Width="1262" Fill="Orange"  Canvas.Left="0"/>
+        <Rectangle Name="Bacground2" Height="450" Width="1262" Fill="Green"  Canvas.Left="1262"/>
+
+        <Rectangle Name="ground" Height="100" Width="800" Canvas.Top="350" Canvas.Left="0"/>
 
         <Rectangle Name="player" Height="100" Width="67" Fill="Brown"  Canvas.Top="140" Canvas.Left="100"/>
 
-        <Rectangle Name="obstacle" Height="200" Width="70" Fill="Red" Canvas.Top="300" Canvas.Left="700"/>
+        <Rectangle Name="obstacle" Height="200" Width="70" Fill="Red"  Canvas.Top="300" Canvas.Left="700"/>
 
         <Label Name="score" FontSize="32" FontWeight="Bold" Content="Score: 0"/>
 
