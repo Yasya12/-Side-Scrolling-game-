@@ -10,8 +10,6 @@ Obstacle image from [here](https://www.pngwing.com/en/free-png-yjpos/download).
 Background was made using Krita.
 
 ## Screenshots
-![title](images/player.png)
-![App Screenshot](pack://application:,,,/images/bacfin.png)
 
 ## Authors
 
