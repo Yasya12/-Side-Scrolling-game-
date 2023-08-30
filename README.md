@@ -8,11 +8,9 @@ Player images from [here](https://www.pngwing.com/en/free-png-ptkmz/download).
 Obstacle image from [here](https://www.pngwing.com/en/free-png-yjpos/download).
 
 Background was made using Krita.
+
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+![App Screenshot](pack://application:,,,/images/bacfin.png)
 
 ## Authors
 
