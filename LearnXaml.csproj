@@ -109,5 +109,8 @@
   <ItemGroup>
     <Resource Include="images\player_die.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\side scroling game_try.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
