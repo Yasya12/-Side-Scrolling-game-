@@ -10,6 +10,7 @@ Obstacle image from [here](https://www.pngwing.com/en/free-png-yjpos/download).
 Background was made using Krita.
 
 ## Screenshots
+![title](images/side-scroling-game_try.jpg)
 
 ## Authors
 
